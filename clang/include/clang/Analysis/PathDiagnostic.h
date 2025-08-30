@@ -69,7 +69,7 @@ struct PathDiagnosticConsumerOptions {
   bool ShouldDisplayMacroExpansions = false;
 
   /// Whether to include clang-formatted macros during macro expansions
-  /// or to keep it as it was stored, the default setting is to kee it as
+  /// or to keep it as it was stored, the default setting is to keep it as
   /// is.
   bool ShouldFormatMacrosPlist = false;
 
